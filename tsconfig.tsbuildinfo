@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/router/product/productRouter.ts","./src/router/user/userRouter.ts"],"errors":true,"version":"5.7.3"}
